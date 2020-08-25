@@ -46,6 +46,9 @@
 <a href="https://github.com/StephaneDUPUY">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StephaneDUPUY&show_icons=true&theme=light&line_height=27" alt="Stephane's github stats"/>
 </a>
+
+</br>
+
 <a href="https://github.com/StephaneDUPUY/openlibrariesV2.2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephaneDUPUY&repo=openlibrariesV2.2&theme=light" />
 </a>
@@ -53,5 +56,6 @@
 </br>
 
 <div align="center">
+  </br>
   ### Show me some ❤️ by starring some of the repositories!
 </div>
