@@ -1,6 +1,6 @@
 <div align="center"
 
-  <h1>Hi there, I'm <a href="http://portfolio.webtechbysteph.com/">Stéphane DUPUY</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+  # Hi there, I'm <a href="http://portfolio.webtechbysteph.com/">Stéphane DUPUY</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
   
   </br>
   </br>
@@ -24,14 +24,14 @@
 
 <p align="center">
   
-  🔭 I’m currently working on Real Estate Agency back-end application and Cosmetic Company web site
-  🌱 I’m currently learning ReactJS
-  👯 I’m looking to collaborate on back-end part for company that hire
-  🤔 I’m looking for help with enhance my skills and/or find any job
-  💬 Ask me about back-end parts
-  📫 How to reach me:
+  - 🔭 I’m currently working on Real Estate Agency back-end application and Cosmetic Company web site
+  - 🌱 I’m currently learning ReactJS
+  - 👯 I’m looking to collaborate on back-end part for company that hire
+  - 🤔 I’m looking for help with enhance my skills and/or find any job
+  - 💬 Ask me about back-end parts
+  - 📫 How to reach me:
     
-</p>
+
 
   *   Email: sdupuy.contact@gmail.com
   *   Linkedin: https://www.linkedin.com/in/stephanedupuy-web/
@@ -39,7 +39,7 @@
 *   😄 Pronouns: He/His
 *   ⚡ Fun fact: if coffee is ready then me too !
 
-</div>
+</p>
 </br>
 
 [![Twitter: Stephane DUPUY](https://img.shields.io/twitter/follow/Stephane_Web?style=social)](https://twitter.com/Stephane_Web)
