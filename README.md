@@ -17,23 +17,30 @@
     <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   
-</div>
+
 
 </br>
 </br>
 
-*   🔭 I’m currently working on Real Estate Agency back-end application and Cosmetic Company web site
-*   🌱 I’m currently learning ReactJS
-*   👯 I’m looking to collaborate on back-end part for company that hire
-*   🤔 I’m looking for help with enhance my skills and/or find any job
-*   💬 Ask me about back-end parts
-*   📫 How to reach me:
+<p align="center">
+  
+    <ul>
+      <li>🔭 I’m currently working on Real Estate Agency back-end application and Cosmetic Company web site</li>
+      <li>🌱 I’m currently learning ReactJS</li>
+      <li>👯 I’m looking to collaborate on back-end part for company that hire</li>
+      <li🤔 I’m looking for help with enhance my skills and/or find any job></li>
+      <li>💬 Ask me about back-end parts</li>
+      <li>📫 How to reach me:</li>
+    </ul>
+</p>
+
   *   Email: sdupuy.contact@gmail.com
   *   Linkedin: https://www.linkedin.com/in/stephanedupuy-web/
   *   Twitter: https://twitter.com/Stephane_Web
 *   😄 Pronouns: He/His
 *   ⚡ Fun fact: if coffee is ready then me too !
 
+</div>
 </br>
 
 [![Twitter: Stephane DUPUY](https://img.shields.io/twitter/follow/Stephane_Web?style=social)](https://twitter.com/Stephane_Web)
