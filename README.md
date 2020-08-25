@@ -11,3 +11,5 @@
   *   Twitter: https://twitter.com/Stephane_Web
 *   😄 Pronouns: He/His
 *   ⚡ Fun fact: if coffee is ready then me too !
+
+<img src="https://github-readme-stats.vercel.app/api?username=StephaneDUPUY&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
