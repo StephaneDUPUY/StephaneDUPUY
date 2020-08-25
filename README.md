@@ -1,6 +1,6 @@
 <div align="center"
 
-  <h1>Hi there, I'm <a href="http://portfolio.webtechbysteph.com/">Stéphane DUPUY</a>👋</h1> 
+  <h1>Hi there, I'm <a href="http://portfolio.webtechbysteph.com/">Stéphane DUPUY</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
    
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> </p>
 
