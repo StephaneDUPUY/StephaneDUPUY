@@ -50,7 +50,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephaneDUPUY&repo=openlibrariesV2.2&theme=light" />
 </a>
 
+</br>
+
 <div align="center">
   ### Show me some ❤️ by starring some of the repositories!
-
 </div>
