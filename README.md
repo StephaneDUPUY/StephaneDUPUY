@@ -1,10 +1,8 @@
+<div align="center"
 
-
-  <h1>Hi there, I'm <a href="http://portfolio.webtechbysteph.com/">Stéphane DUPUY</a></h1> 👋
-  
-<div align="center">
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> </p>
+  <h1>Hi there, I'm <a href="http://portfolio.webtechbysteph.com/">Stéphane DUPUY</a>👋</h1> 
+   
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> </p>
 
 </div>
 
