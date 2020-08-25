@@ -29,6 +29,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: if coffee is ready then me too !
 
+</br>
+
 [![Twitter: Stephane DUPUY](https://img.shields.io/twitter/follow/Stephane_Web?style=social)](https://twitter.com/Stephane_Web)
 [![Linkedin: stephanedupuy-web](https://img.shields.io/badge/-stephanedupuy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanedupuy-web/)](https://www.linkedin.com/in/stephanedupuy-web/)
 [![GitHub StephaneDUPUY](https://img.shields.io/github/followers/StephaneDUPUY?label=follow&style=social)](https://github.com/StephaneDUPUY)
