@@ -1,6 +1,12 @@
-## Hi, I'm [Stéphane DUPUY](http://portfolio.webtechbysteph.com/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
+  <h1>Hi there, I'm <a href="http://portfolio.webtechbysteph.com/">Stéphane DUPUY</a></h1> 👋
+  
+<div align="center">
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> </p>
+
+</div>
 
 <a href="https://twitter.com/Stephane_Web">
   <img align="left" alt="Stephane's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
