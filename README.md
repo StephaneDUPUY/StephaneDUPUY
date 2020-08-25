@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Stéphane DUPUY 👋
 
-<!--
-**StephaneDUPUY/StephaneDUPUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Real Estate Agency back-end application and Cosmetic Company web site
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on back-end part for company that hire
+- 🤔 I’m looking for help with enahnce my skills and/or find any job
+- 💬 Ask me about back-end parts
+- 📫 How to reach me: 
+Email: sdupuy.contact@gmail.com
+Linkedin: https://www.linkedin.com/in/stephanedupuy-web/
+Twitter: https://twitter.com/Stephane_Web
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: if coffee is ready then me too !
