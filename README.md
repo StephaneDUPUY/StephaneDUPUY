@@ -18,19 +18,16 @@
 </br>
 
 - 🔭 I’m currently working on Real Estate Agency back-end application and Cosmetic Company web site
-  - 🌱 I’m currently learning ReactJS
-  - 👯 I’m looking to collaborate on back-end part for company that hire
-  - 🤔 I’m looking for help with enhance my skills and/or find any job
-  - 💬 Ask me about back-end parts
-  - 📫 How to reach me:
-
-
-
-  *   Email: sdupuy.contact@gmail.com
-  *   Linkedin: https://www.linkedin.com/in/stephanedupuy-web/
-  *   Twitter: https://twitter.com/Stephane_Web
-*   😄 Pronouns: He/His
-*   ⚡ Fun fact: if coffee is ready then me too !
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on back-end part for company that hire
+- 🤔 I’m looking for help with enhance my skills and/or find any job
+- 💬 Ask me about back-end parts
+- 📫 How to reach me:
+    - Email: sdupuy.contact@gmail.com
+    - Linkedin: https://www.linkedin.com/in/stephanedupuy-web/
+    - Twitter: https://twitter.com/Stephane_Web
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: if coffee is ready then me too !
 
 [![Twitter: Stephane DUPUY](https://img.shields.io/twitter/follow/Stephane_Web?style=social)](https://twitter.com/Stephane_Web)
 [![Linkedin: stephanedupuy-web](https://img.shields.io/badge/-stephanedupuy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanedupuy-web/)](https://www.linkedin.com/in/stephanedupuy-web/)
