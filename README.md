@@ -46,10 +46,7 @@
 </a>
 <a href="https://github.com/StephaneDUPUY/openlibrariesV2.2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephaneDUPUY&repo=Openlibraries&theme=light" />
+</a>
 
-</a>
-<a href="https://github.com/StephaneDUPUY/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephaneDUPUY&repo=VelocityX&theme=light" />
-</a>
 
 <div align="center">
