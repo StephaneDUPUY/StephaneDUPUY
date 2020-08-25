@@ -2,11 +2,10 @@
 
   <h1>Hi there, I'm <a href="http://portfolio.webtechbysteph.com/">Stéphane DUPUY</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
   
-</div>
+  </br>
+  </br>
    
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> </p>
-
-
+  <p> <img src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> </p>
 
   <a href="https://twitter.com/Stephane_Web">
     <img align="left" alt="Stephane's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -17,6 +16,7 @@
   <a href="https://github.com/StephaneDUPUY">
     <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
+  
 </div>
 
 </br>
