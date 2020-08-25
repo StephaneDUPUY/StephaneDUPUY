@@ -4,17 +4,18 @@
    
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> </p>
 
-</div>
 
-<a href="https://twitter.com/Stephane_Web">
-  <img align="left" alt="Stephane's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in//stephanedupuy-web">
-  <img align="left" alt="Stephane's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/StephaneDUPUY">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+
+  <a href="https://twitter.com/Stephane_Web">
+    <img align="left" alt="Stephane's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://linkedin.com/in//stephanedupuy-web">
+    <img align="left" alt="Stephane's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/StephaneDUPUY">
+    <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+</div>
 
 </br>
 </br>
