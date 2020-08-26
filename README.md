@@ -15,6 +15,9 @@
 </a>
 
 </br>
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 </br>
 
 - 🔭 I’m currently working on Real Estate Agency back-end application and Cosmetic Company web site
