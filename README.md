@@ -1,7 +1,6 @@
 # Hi there, I'm [Stéphane DUPUY](http://portfolio.webtechbysteph.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 </br>
-[![Gmail Badge](https://img.shields.io/badge/-sdupuy.contact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdupuy.contact@gmail.com)](mailto:sdupuy.contact@gmail.com)
 
 <p> <img src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> </p>
 
@@ -14,6 +13,8 @@
 <a href="https://github.com/StephaneDUPUY">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+![Gmail Badge](https://img.shields.io/badge/-sdupuy.contact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdupuy.contact@gmail.com)](mailto:sdupuy.contact@gmail.com)
+
 
 </br>
 </br>
