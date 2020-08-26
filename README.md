@@ -86,3 +86,6 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
   </br>
   <p>Show me some ❤️ by starring some of the repositories!</p>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
