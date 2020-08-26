@@ -1,4 +1,4 @@
-### Hi there, I'm [Stéphane DUPUY](http://portfolio.webtechbysteph.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm [Stéphane DUPUY](http://portfolio.webtechbysteph.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 </br>
 
@@ -36,13 +36,18 @@
 [![GitHub StephaneDUPUY](https://img.shields.io/github/followers/StephaneDUPUY?label=follow&style=social)](https://github.com/StephaneDUPUY)
 [![website](https://img.shields.io/badge/PortfolioWebsite-portfolio.webtechbysteph.com/-2648ff?style=flat-square&logo=google-chrome)](http://portfolio.webtechbysteph.com/)
 
-**Languages and Tools:**  https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg
+**Languages and Tools:**
 
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px"></code>
+<code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px"></code>
+<code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
+<code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"></code>
+<code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"></code>
+<code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top; margin:4px"></code>
 
 <a href="https://github.com/StephaneDUPUY">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneDUPUY&theme=light&hide_langs_below=1" />
