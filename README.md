@@ -1,6 +1,6 @@
 # Hi there, I'm [Stéphane DUPUY](http://portfolio.webtechbysteph.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-After 15 years in IT computer / Microsoft side, last year I've launched a new carreer of Software/Web developer by following school web cursus.
+After 15 years in IT (computer / Microsoft side), last year I've launched a new carreer of Software/Web developer by following school web cursus.
 
 For now, while improving my knowledge and learning new ones, I'm searching any job !
 
