@@ -87,6 +87,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
   <p>Show me some ❤️ by starring some of the repositories!</p>
 </div>
 
+What time spent last week
 <!--START_SECTION:waka-->
 ```text
 Mustache        7 hrs 8 mins    ██████████████████████░░░   88.18 % 
