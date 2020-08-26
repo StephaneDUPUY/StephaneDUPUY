@@ -78,7 +78,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 </br>
 
 
-<figure><embed src="https://wakatime.com/share/@StephWebTech/eb28f4b3-4a27-43d7-892b-a18b093ed0e4.svg"></embed></figure>
+<img src="https://wakatime.com/share/@StephWebTech/eb28f4b3-4a27-43d7-892b-a18b093ed0e4.svg" />
 
 
 
