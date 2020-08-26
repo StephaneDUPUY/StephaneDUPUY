@@ -19,10 +19,11 @@
 
 </br>
 
-<img align="right" width="" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" width="320" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 </br>
 
+<p align="left">
 - 🔭 I’m currently working on Real Estate Agency back-end application and Cosmetic Company web site
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on back-end part for company that hire
@@ -34,7 +35,7 @@
     - Twitter: https://twitter.com/Stephane_Web
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: if coffee is ready then me too !
-
+</p>
 </br>
 
 [![Twitter: Stephane DUPUY](https://img.shields.io/twitter/follow/Stephane_Web?style=social)](https://twitter.com/Stephane_Web)
