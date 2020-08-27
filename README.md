@@ -49,6 +49,8 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
+</br>
+
 **Languages and Tools:**
 
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"></code>
