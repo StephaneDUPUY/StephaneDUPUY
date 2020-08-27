@@ -133,4 +133,4 @@ Other           2 mins          ░░░░░░░░░░░░░░░░
 
 </details>
 
-<a href="https://tenor.com/view/the-matrix-keanu-reeves-carrie-ann-moss-neo-trinity-gif-4039760">Infinite Guns - The Matrix GIF</a> 
+<img align="center" href="https://tenor.com/view/the-matrix-keanu-reeves-carrie-ann-moss-neo-trinity-gif-4039760">Infinite Guns - The Matrix GIF</a> 
