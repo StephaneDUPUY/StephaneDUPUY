@@ -71,12 +71,14 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
+<p align="center">
 <a href="https://github.com/StephaneDUPUY">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneDUPUY&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/StephaneDUPUY">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StephaneDUPUY&show_icons=true&theme=dark&line_height=27" alt="Stephane's github stats"/>
 </a>
+</p>
 
 </br>
 
