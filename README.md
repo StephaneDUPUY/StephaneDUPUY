@@ -79,7 +79,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
-<img src="https://wakatime.com/share/@StephWebTech/1c44c620-5405-4f4c-985f-26614cba0324.svg" width="1024" />
+<img src="https://wakatime.com/share/@StephWebTech/1c44c620-5405-4f4c-985f-26614cba0324.svg" width="680" />
 <img src="https://wakatime.com/share/@StephWebTech/eb28f4b3-4a27-43d7-892b-a18b093ed0e4.svg" />
 
 
