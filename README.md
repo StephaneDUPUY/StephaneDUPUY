@@ -66,13 +66,18 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
 
+</p>
+
 </br>
+
+<p align="center">
 
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://img.shields.io/badge/Ubuntu-v20.04-orange?style=for-the-badge&logo=ubuntu" alt="ubuntu" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://img.shields.io/badge/Windows-v10-blue?style=for-the-badge&logo=windows" alt="windows" style="vertical-align:top; margin:4px"></code>
+
 </p>
 
 </br>
