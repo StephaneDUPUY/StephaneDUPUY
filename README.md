@@ -90,19 +90,19 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
-</br>
-
-# Stats and .... stats
-
-<img src="https://wakatime.com/share/@StephWebTech/1c44c620-5405-4f4c-985f-26614cba0324.svg" width="680" align="center" />
-<img src="https://wakatime.com/share/@StephWebTech/eb28f4b3-4a27-43d7-892b-a18b093ed0e4.svg" width="680" align="center"/>
-
-
-
 <div align="center">
   </br>
   <p>Show me some ❤️ by starring some of the repositories!</p>
 </div>
+
+</br>
+
+<details><summary>MORE STATS ?</summary>
+  
+# Stats and .... stats
+
+<img src="https://wakatime.com/share/@StephWebTech/1c44c620-5405-4f4c-985f-26614cba0324.svg" width="680" align="center" />
+<img src="https://wakatime.com/share/@StephWebTech/eb28f4b3-4a27-43d7-892b-a18b093ed0e4.svg" width="680" align="center"/>
 
 </br>
 
@@ -117,3 +117,5 @@ YAML            6 mins          ▒░░░░░░░░░░░░░░░
 Other           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
+
+</details>
