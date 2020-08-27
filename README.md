@@ -83,6 +83,8 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
+</br>
+
 # Stats and .... stats
 
 <img src="https://wakatime.com/share/@StephWebTech/1c44c620-5405-4f4c-985f-26614cba0324.svg" width="680" align="center" />
