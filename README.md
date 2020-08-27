@@ -18,7 +18,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 [![Gmail Badge](https://img.shields.io/badge/-sdupuy.contact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdupuy.contact@gmail.com)](mailto:sdupuy.contact@gmail.com)
 
-<img align="center" src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> 
+<img align="right" src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> 
 
 
 
