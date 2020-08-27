@@ -43,12 +43,11 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
-<p align="center">
 [![Twitter: Stephane DUPUY](https://img.shields.io/twitter/follow/Stephane_Web?style=social)](https://twitter.com/Stephane_Web)
 [![Linkedin: stephanedupuy-web](https://img.shields.io/badge/-stephanedupuy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanedupuy-web/)](https://www.linkedin.com/in/stephanedupuy-web/)
 [![GitHub StephaneDUPUY](https://img.shields.io/github/followers/StephaneDUPUY?label=follow&style=social)](https://github.com/StephaneDUPUY)
 [![website](https://img.shields.io/badge/PortfolioWebsite-portfolio.webtechbysteph.com/-2648ff?style=flat-square&logo=google-chrome)](http://portfolio.webtechbysteph.com/)
-</p>
+
 
 </br>
 
