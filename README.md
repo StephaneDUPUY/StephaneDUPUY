@@ -65,10 +65,10 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 <code><img src="https://img.shields.io/badge/Windows-v10-blue?style=for-the-badge&logo=windows" alt="windows" style="vertical-align:top; margin:4px"></code>
 
 <a href="https://github.com/StephaneDUPUY">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneDUPUY&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneDUPUY&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/StephaneDUPUY">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=StephaneDUPUY&show_icons=true&theme=light&line_height=27" alt="Stephane's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=StephaneDUPUY&show_icons=true&theme=dark&line_height=27" alt="Stephane's github stats"/>
 </a>
 
 </br>
