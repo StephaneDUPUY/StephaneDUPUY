@@ -75,6 +75,8 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
+# Current projects
+
 <a href="https://github.com/StephaneDUPUY/openlibrariesV2.2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephaneDUPUY&repo=openlibrariesV2.2&theme=light" />
 </a>
