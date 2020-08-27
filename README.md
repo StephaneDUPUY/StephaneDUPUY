@@ -51,9 +51,11 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
-<p align="center">
-**Languages and Tools:**
 
+# Languages and Tools:
+
+<p align="center">
+  
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px"></code>
