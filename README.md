@@ -110,7 +110,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
-<details><summary>**MORE STATS ?**</summary>
+<details><summary><strong>MORE STATS ?</strong></summary>
   
 # Stats and .... stats
 
