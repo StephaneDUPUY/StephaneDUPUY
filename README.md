@@ -6,7 +6,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
-<p> <img src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> 
 
 <a href="https://twitter.com/Stephane_Web">
   <img align="left" alt="Stephane's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,6 +19,8 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/-sdupuy.contact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdupuy.contact@gmail.com)](mailto:sdupuy.contact@gmail.com)
+
+</p>
 
 
 </br>
