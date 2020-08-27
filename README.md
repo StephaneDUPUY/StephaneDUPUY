@@ -51,6 +51,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
+<p align="center">
 **Languages and Tools:**
 
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"></code>
@@ -63,7 +64,6 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
-<p align="center">
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top; margin:4px"></code>
