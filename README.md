@@ -2,6 +2,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=StephaneDUPUY&theme=gruvbox)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=StephaneDUPUY)
+
+
 After 15 years in IT (computer / Microsoft side), last year I've launched a new carreer of Software/Web developer by following school web cursus.
 
 For now, while improving my knowledge and learning new ones, I'm searching any job !
