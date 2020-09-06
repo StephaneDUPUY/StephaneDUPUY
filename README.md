@@ -1,6 +1,6 @@
 # Hi there, I'm [Stéphane DUPUY](http://portfolio.webtechbysteph.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StephaneDUPUY&theme=gruvbox)]
+[trophy](https://github-profile-trophy.vercel.app/?username=StephaneDUPUY&theme=gruvbox)
 
 After 15 years in IT (computer / Microsoft side), last year I've launched a new carreer of Software/Web developer by following school web cursus.
 
