@@ -1,5 +1,7 @@
 # Hi there, I'm [Stéphane DUPUY](http://portfolio.webtechbysteph.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=StephaneDUPUY&theme=gruvbox)]
+
 After 15 years in IT (computer / Microsoft side), last year I've launched a new carreer of Software/Web developer by following school web cursus.
 
 For now, while improving my knowledge and learning new ones, I'm searching any job !
@@ -29,7 +31,6 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StephaneDUPUY&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on Real Estate Agency back-end application and Cosmetic Company web site
 - 🌱 I’m currently learning ReactJS
