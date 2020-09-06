@@ -29,6 +29,10 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on Real Estate Agency back-end application and Cosmetic Company web site
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on back-end part for company that hire
