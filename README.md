@@ -102,14 +102,17 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 <table border = "1" bordercolor = "green">
   <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
-            <th>Column 3</th>
+    <th>Training name</th>
+    <th>Site link</th>
+    <th>Level</th>
+    <th>Experience</th>
+    <th>Technologies</th>
   </tr>
   <tr>
-            <td rowspan = "2">Row 1 Cell 1</td>
-            <td>Row 1 Cell 2</td><td>Row 1 Cell 3</td>
-         </tr>
+    <td>CodinGame</td>
+    <td>Row 1 Cell 2</td>
+    <td>Row 1 Cell 3</td>
+  </tr>
          <tr>
             <td>Row 2 Cell 2</td>
             <td>Row 2 Cell 3</td>
