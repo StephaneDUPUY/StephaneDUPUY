@@ -155,6 +155,15 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 # What time spent last week
 
 <!--START_SECTION:waka-->
+```text
+Week: 31 August, 2020 - 07 September, 2020
+
+HTML       1 hr 7 mins     ███████████▓░░░░░░░░░░░░░   47.00 % 
+Markdown   34 mins         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+PHP        28 mins         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+CSS        12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+```
 <!--END_SECTION:waka-->
 
 </details>
