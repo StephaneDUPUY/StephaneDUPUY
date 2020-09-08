@@ -124,6 +124,8 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
   </tr>  
 </table>
 
+</br>
+
 # Current projects
 
 <a href="https://github.com/StephaneDUPUY/openlibrariesV2.2">
