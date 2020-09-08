@@ -100,28 +100,13 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 # Coding challenge passed
 
-Training name	Site link	Level	Exp	Date	Technologies
-Codin Game 	https://www.codingame.com/home	Niveau 3	56 XP	06/09/2020	PHP / JS
-Edabit	https://edabit.com/challenges	Niveau 1	20 XP	08/09/2020	PHP / JS
-
-      <table border = "1" bordercolor = "green" background = "/images/test.png">
-         <tr>
+<table>
+  <tr>
             <th>Column 1</th>
             <th>Column 2</th>
             <th>Column 3</th>
-         </tr>
-         <tr>
-            <td rowspan = "2">Row 1 Cell 1</td>
-            <td>Row 1 Cell 2</td><td>Row 1 Cell 3</td>
-         </tr>
-         <tr>
-            <td>Row 2 Cell 2</td>
-            <td>Row 2 Cell 3</td>
-         </tr>
-         <tr>
-            <td colspan = "3">Row 3 Cell 1</td>
-         </tr>
-      </table>
+  </tr>
+</table>
 
 # Current projects
 
