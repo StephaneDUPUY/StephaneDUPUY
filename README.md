@@ -100,7 +100,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 # Coding challenge passed
 
-<table>
+<table border = "1" bordercolor = "green">
   <tr>
             <th>Column 1</th>
             <th>Column 2</th>
