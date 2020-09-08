@@ -110,7 +110,10 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
   </tr>
   <tr>
     <td>CodinGame</td>
-    <td>Edabit</td>
+    <td>https://www.codingame.com/home</td>
+    <td>Lvl 3</td>
+    <td>56 XP<td>
+    <td>PHP / JS</td>
   </tr>
   <tr>
     <td>Row 2 Cell 2</td>
