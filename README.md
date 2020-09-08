@@ -113,15 +113,8 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
     <td>https://www.codingame.com/home</td>
     <td>Lvl 3</td>
     <td>56 XP<td>
-    <td>PHP / JS</td>
+    <td>PHP - JS</td>
   </tr>
-  <tr>
-    <td>Row 2 Cell 2</td>
-    <td>Row 2 Cell 3</td>
-  </tr>
-         <tr>
-            <td colspan = "3">Row 3 Cell 1</td>
-         </tr>
 </table>
 
 # Current projects
