@@ -110,13 +110,12 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
   </tr>
   <tr>
     <td>CodinGame</td>
-    <td>Row 1 Cell 2</td>
-    <td>Row 1 Cell 3</td>
+    <td>Edabit</td>
   </tr>
-         <tr>
-            <td>Row 2 Cell 2</td>
-            <td>Row 2 Cell 3</td>
-         </tr>
+  <tr>
+    <td>Row 2 Cell 2</td>
+    <td>Row 2 Cell 3</td>
+  </tr>
          <tr>
             <td colspan = "3">Row 3 Cell 1</td>
          </tr>
