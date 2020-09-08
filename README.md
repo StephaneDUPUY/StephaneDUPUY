@@ -155,13 +155,6 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 # What time spent last week
 
 <!--START_SECTION:waka-->
-```text
-Mustache        7 hrs 8 mins    ██████████████████████░░░   88.18 % 
-JSON            26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Apache Config   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-YAML            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Other           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-```
 <!--END_SECTION:waka-->
 
 </details>
