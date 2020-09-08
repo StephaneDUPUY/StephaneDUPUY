@@ -98,9 +98,9 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 </br>
 
-# Coding challenge passed
+# Coding challenges passed
 
-<table border = "1" bordercolor = "green">
+<table border = "1" bordercolor = "blue">
   <tr>
     <th>Training name</th>
     <th>Site link</th>
@@ -110,11 +110,18 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
   </tr>
   <tr>
     <td>CodinGame</td>
-    <td>https://www.codingame.com/home</td>
+    <td>https://www.codingame.com</td>
     <td>Lvl 3</td>
-    <td>56 XP<td>
-    <td>PHP - JS</td>
+    <td>56 XP</td>
+    <td>PHP / JS</td>
   </tr>
+    <tr>
+    <td>Edabit</td>
+    <td>https://edabit.com/challenges</td>
+    <td>Lvl 1</td>
+    <td>20 XP</td>
+    <td>PHP / JS</td>
+  </tr>  
 </table>
 
 # Current projects
