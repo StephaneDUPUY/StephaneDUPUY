@@ -156,7 +156,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 August, 2020 - 07 September, 2020
+Week: 01 September, 2020 - 08 September, 2020
 
 HTML       1 hr 7 mins     ███████████▓░░░░░░░░░░░░░   47.00 % 
 Markdown   34 mins         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
