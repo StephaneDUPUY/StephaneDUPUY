@@ -2,7 +2,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=StephaneDUPUY&theme=gruvbox)
 
-After 15 years in IT (computer / Microsoft side), last year I've launched a new carreer of Software/Web developer by following school web cursus.
+After 15 years in IT (computer / Microsoft side), last year I've launched a new career of Software/Web developer by following school web curriculum.
 
 For now, while improving my knowledge and learning new ones, I'm searching any job !
 
