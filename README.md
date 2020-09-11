@@ -129,6 +129,13 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
     <td> - </td>
     <td>PHP / JS</td>
   </tr> 
+    <tr>
+    <td>Codewars</td>
+    <td>https://www.codewars.com/users/StephaneDUPUY</td>
+    <td>8 kyu</td>
+    <td> - </td>
+    <td>PHP / JS</td>
+  </tr>
 </table>
 
 </br>
