@@ -115,13 +115,20 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
     <td>56 XP</td>
     <td>PHP / JS</td>
   </tr>
-    <tr>
+  <tr>
     <td>Edabit</td>
     <td>https://edabit.com/challenges</td>
     <td>Lvl 1</td>
     <td>20 XP</td>
     <td>PHP / JS</td>
   </tr>  
+  <tr>
+    <td>CodeSignal</td>
+    <td>https://app.codesignal.com/</td>
+    <td>Lvl 1</td>
+    <td> - </td>
+    <td>PHP / JS</td>
+  </tr> 
 </table>
 
 </br>
