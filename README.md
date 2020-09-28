@@ -170,7 +170,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2020 - 26 September, 2020
+Week: 20 September, 2020 - 27 September, 2020
 
 JavaScript   1 hr 16 mins    ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
 Markdown     1 hr 16 mins    ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
