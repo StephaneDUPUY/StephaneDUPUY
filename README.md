@@ -112,7 +112,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
     <td>CodinGame</td>
     <td>https://www.codingame.com</td>
     <td>Lvl 4</td>
-    <td>56 XP / 111 XP</td>
+    <td>96 XP / 111 XP</td>
     <td>PHP / JS</td>
   </tr>
   <tr>
