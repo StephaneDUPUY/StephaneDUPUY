@@ -170,11 +170,11 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 October, 2020 - 03 November, 2020
+Week: 28 October, 2020 - 04 November, 2020
 
-JavaScript   1 hr 6 mins     █████████████▒░░░░░░░░░░░   53.17 % 
-Markdown     44 mins         ████████▓░░░░░░░░░░░░░░░░   35.25 % 
-PHP          14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Markdown     1 hr 37 mins    █████████████░░░░░░░░░░░░   52.45 % 
+JavaScript   1 hr 6 mins     █████████░░░░░░░░░░░░░░░░   35.85 % 
+PHP          21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 ```
 <!--END_SECTION:waka-->
 
