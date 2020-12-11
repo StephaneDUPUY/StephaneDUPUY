@@ -170,7 +170,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
 Markdown     27 mins         █████████████▒░░░░░░░░░░░   52.86 % 
 PHP          14 mins         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
