@@ -170,7 +170,11 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 18 December, 2020 - 25 December, 2020
+
+JSON       23 mins         ██████████████████████▒░░   89.88 % 
+PHP        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 ```
 <!--END_SECTION:waka-->
 
