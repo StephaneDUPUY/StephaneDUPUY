@@ -170,7 +170,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2020 - 26 December, 2020
+Week: 20 December, 2020 - 27 December, 2020
 
 JSON       36 mins         ███████████████████▓░░░░░   79.16 % 
 Markdown   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
