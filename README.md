@@ -170,7 +170,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
+Week: 10 January, 2021 - 17 January, 2021
 
 Markdown     1 hr 15 mins    ██████████░░░░░░░░░░░░░░░   40.40 % 
 JavaScript   53 mins         ███████░░░░░░░░░░░░░░░░░░   28.35 % 
