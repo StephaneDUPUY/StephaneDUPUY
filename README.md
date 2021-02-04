@@ -170,13 +170,13 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2021 - 02 February, 2021
+Week: 27 January, 2021 - 03 February, 2021
 
-Twig       17 hrs 40 mins  ███████████▓░░░░░░░░░░░░░   46.53 % 
-PHP        7 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-YAML       4 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-CSS        3 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Markdown   2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Twig       18 hrs 1 min    ████████████▓░░░░░░░░░░░░   51.32 % 
+CSS        8 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.00 % 
+YAML       3 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+PHP        3 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Markdown   1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 <!--END_SECTION:waka-->
 
