@@ -170,7 +170,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2021 - 15 February, 2021
+Week: 09 February, 2021 - 16 February, 2021
 
 Twig       18 hrs 1 min    ████████████▓░░░░░░░░░░░░   51.32 % 
 CSS        8 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.00 % 
