@@ -30,7 +30,7 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 </br>
 
 
-- 🔭 I’m currently working on PHP and JS throw Symfony and Vue JS
+- 🔭 I’m currently working on PHP and JS with Symfony and Vue JS
 - 🌱 I provide some ephemeral web sites focused on marketing/communication way
 - 👯 I'm working in front and back-end
 - 🤔 I’m looking for help with enhance my skills
