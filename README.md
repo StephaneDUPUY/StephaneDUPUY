@@ -170,7 +170,7 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 March, 2021 - 08 March, 2021
+Week: 02 March, 2021 - 09 March, 2021
 
 Python     4 mins          ██████████▓░░░░░░░░░░░░░░   43.02 % 
 CSS        4 mins          █████████▓░░░░░░░░░░░░░░░   38.90 % 
