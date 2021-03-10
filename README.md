@@ -2,7 +2,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=StephaneDUPUY&theme=gruvbox)
 
-After 15 years in IT (computer / Microsoft side), last year I've launched a new career of Software/Web developer by following school web curriculum.
+After 15 years in IT (computer / Microsoft side), 1 year ago  I've launched a new career of Software/Web developer by following school web curriculum.
+For now, I'm working for a Communication entreprise as a Full stack Developer !
+
 
 </br>
 
@@ -27,10 +29,10 @@ After 15 years in IT (computer / Microsoft side), last year I've launched a new 
 </br>
 
 
-- 🔭 I’m currently working on Real Estate Agency back-end application and Cosmetic Company web site
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on back-end part for company that hire
-- 🤔 I’m looking for help with enhance my skills and/or find any job
+- 🔭 I’m currently working on PHP and JS throw Symfony and VueJS to
+- 🌱 I provide some ephemeral web sites focused on marketing/communication way
+- 👯 I'm working in front and back-end
+- 🤔 I’m looking for help with enhance my skills
 - 💬 Ask me about back-end parts
 - 📫 How to reach me:
     - Email: sdupuy.contact@gmail.com
