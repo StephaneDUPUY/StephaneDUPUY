@@ -3,6 +3,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=StephaneDUPUY&theme=gruvbox)
 
 After 15 years in IT (computer / Microsoft side), 1 year ago  I've launched a new career of Software/Web developer by following school web curriculum.
+</br>
 For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 
@@ -29,7 +30,7 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 </br>
 
 
-- 🔭 I’m currently working on PHP and JS throw Symfony and VueJS to
+- 🔭 I’m currently working on PHP and JS throw Symfony and Vue JS
 - 🌱 I provide some ephemeral web sites focused on marketing/communication way
 - 👯 I'm working in front and back-end
 - 🤔 I’m looking for help with enhance my skills
@@ -48,11 +49,8 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 [![GitHub StephaneDUPUY](https://img.shields.io/github/followers/StephaneDUPUY?label=follow&style=social)](https://github.com/StephaneDUPUY)
 [![website](https://img.shields.io/badge/PortfolioWebsite-portfolio.webtechbysteph.com/-2648ff?style=flat-square&logo=google-chrome)](http://portfolio.webtechbysteph.com/)
 
-
 </br>
-
 </br>
-
 
 # Languages and Tools:
 
@@ -92,7 +90,6 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 </p>
 
 </br>
-
 </br>
 
 # Coding challenges passed
