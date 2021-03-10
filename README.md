@@ -4,10 +4,7 @@
 
 After 15 years in IT (computer / Microsoft side), last year I've launched a new career of Software/Web developer by following school web curriculum.
 
-For now, while improving my knowledge and learning new ones, I'm searching any job !
-
 </br>
-
 
 <a href="https://twitter.com/Stephane_Web">
   <img align="left" alt="Stephane's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -22,8 +19,6 @@ For now, while improving my knowledge and learning new ones, I'm searching any j
 [![Gmail Badge](https://img.shields.io/badge/-sdupuy.contact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdupuy.contact@gmail.com)](mailto:sdupuy.contact@gmail.com)
 
 <img align="left" src="https://komarev.com/ghpvc/?username=StephaneDUPUY&label=Views&color=blue&style=plastic" alt="Stephane" /> 
-
-
 
 </br>
 
