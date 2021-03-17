@@ -164,13 +164,13 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 March, 2021 - 15 March, 2021
+Week: 09 March, 2021 - 16 March, 2021
 
-Markdown     3 hrs 12 mins   █████████████░░░░░░░░░░░░   51.89 % 
-PHP          1 hr 16 mins    █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-JavaScript   29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-CSS          29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-HTML         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Markdown   1 hr 54 mins    █████████▒░░░░░░░░░░░░░░░   37.39 % 
+PHP        1 hr 14 mins    ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+HTML       33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Other      25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+CSS        23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 ```
 <!--END_SECTION:waka-->
 
