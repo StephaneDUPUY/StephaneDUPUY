@@ -164,7 +164,7 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 May, 2021 - 03 June, 2021
+Week: 28 May, 2021 - 04 June, 2021
 
 PHP     10 hrs 58 mins  ██████████████▒░░░░░░░░░░   57.59 % 
 Twig    6 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.75 % 
