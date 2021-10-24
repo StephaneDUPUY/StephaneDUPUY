@@ -164,11 +164,11 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2021 - 22 October, 2021
+Week: 16 October, 2021 - 23 October, 2021
 
-Other   13 mins         ███████████████████████▓░   94.75 % 
-JSON    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-PHP     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Other   9 mins          ███████████████████████▓░   94.33 % 
+JSON    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+PHP     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
 
