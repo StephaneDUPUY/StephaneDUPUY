@@ -164,7 +164,7 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 October, 2021 - 27 October, 2021
+Week: 21 October, 2021 - 28 October, 2021
 
 PHP      40 mins         █████████████▒░░░░░░░░░░░   53.31 % 
 Other    15 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.87 % 
