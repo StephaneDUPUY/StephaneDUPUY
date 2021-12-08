@@ -164,13 +164,13 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2021 - 06 December, 2021
+Week: 30 November, 2021 - 07 December, 2021
 
-JavaScript   4 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   31.07 % 
-PHP          3 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Twig         3 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-YAML         1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Other        38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+JavaScript   3 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   32.76 % 
+PHP          1 hr 53 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Twig         1 hr 43 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.06 % 
+YAML         1 hr 34 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Other        37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 ```
 <!--END_SECTION:waka-->
 
