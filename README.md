@@ -164,7 +164,7 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 18 December, 2021
+Week: 12 December, 2021 - 19 December, 2021
 
 Vue.js       12 hrs 3 mins   █████████████▓░░░░░░░░░░░   54.93 % 
 Twig         3 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 % 
