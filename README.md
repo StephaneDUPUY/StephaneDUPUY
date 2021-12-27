@@ -164,7 +164,7 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 25 December, 2021
+Week: 19 December, 2021 - 26 December, 2021
 
 PHP        12 hrs 7 mins   █████████████░░░░░░░░░░░░   51.52 % 
 Vue.js     5 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.09 % 
