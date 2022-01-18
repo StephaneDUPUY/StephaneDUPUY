@@ -164,7 +164,7 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 16 January, 2022
+Week: 10 January, 2022 - 17 January, 2022
 
 Vue.js       13 hrs 14 mins  ████████████░░░░░░░░░░░░░   48.49 % 
 PHP          10 hrs 22 mins  █████████▒░░░░░░░░░░░░░░░   37.98 % 
