@@ -164,13 +164,7 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 April, 2022 - 20 April, 2022
-
-PHP          3 hrs 14 mins   ████████████▓░░░░░░░░░░░░   50.80 % 
-Vue.js       3 hrs           ███████████▓░░░░░░░░░░░░░   47.03 % 
-Twig         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
