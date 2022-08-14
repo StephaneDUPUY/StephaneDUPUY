@@ -14,5 +14,5 @@ jobs:
       - uses: athul/waka-readme@v0.1.4
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          HEAD_FLAG: true
+          #HEAD_FLAG: true
           SHOW_TITLE: true
