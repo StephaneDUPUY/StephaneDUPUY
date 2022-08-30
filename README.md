@@ -164,7 +164,7 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2022 - 28 August, 2022
+Week: 22 August, 2022 - 29 August, 2022
 
 PHP    16 hrs 25 mins  ██████████████████████▒░░   89.85 % 
 CSV    36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
