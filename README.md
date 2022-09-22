@@ -164,7 +164,7 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2022 - 20 September, 2022
+Week: 14 September, 2022 - 21 September, 2022
 
 PHP          23 hrs 20 mins  ████████████████████████▓   98.89 % 
 Text         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
