@@ -164,13 +164,13 @@ For now, I'm working for a Communication entreprise as a Full stack Developer !
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2022 - 16 October, 2022
+Week: 10 October, 2022 - 17 October, 2022
 
-PHP            11 hrs 49 mins  ███████████████████████░░   92.42 % 
-Vue.js         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Text           23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-HTML           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-SmartyConfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+PHP    9 hrs 28 mins   ████████████████████▒░░░░   81.66 % 
+CSV    1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Text   51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+HTML   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 <!--END_SECTION:waka-->
 
